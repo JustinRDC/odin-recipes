@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.description {
+    width: 700px;
+    background: rgb(84, 130, 255);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ingredients {
+    background: rgb(247, 247, 179);
+    width: 700px;
+    margin: 0 auto;
+}
+
+.steps {
+    background: rgb(247, 122, 122);
+    width: 700px;
+    margin: 0 auto;
+}
+
+body {
+    background: rgb(61, 44, 44);
+}
+
+a {
+    background-color: rgb(255, 209, 3);
+}
